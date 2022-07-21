@@ -1,0 +1,7 @@
+https://api.mocki.io/v2/549a5d8b/Top250Movies
+
+https://api.mocki.io/v2/549a5d8b/MostPopularMovies
+
+https://api.mocki.io/v2/549a5d8b/MostPopularTVs
+
+https://api.mocki.io/v2/549a5d8b/Top250TVs
